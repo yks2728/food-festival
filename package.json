@@ -9,6 +9,7 @@
     "duplexer": "^0.1.2",
     "event-stream": "^4.0.1",
     "from": "^0.1.7",
+    "image-webpack-loader": "^8.1.0",
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
     "lodash.assign": "^4.2.0",
@@ -22,7 +23,9 @@
     "through": "^2.3.8"
   },
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "webpack": "^5.71.0",
+    "webpack-bundle-analyzer": "^4.5.0",
     "webpack-cli": "^4.9.2"
   },
   "scripts": {
